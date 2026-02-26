@@ -1,8 +1,6 @@
 # Hi there 👋 I'm Daiwik
 
-💡 Builder | 🔗 Web3 Developer | ⚡ Curious Mind  
-
-I love building decentralized systems, exploring trustless architectures, and pushing the boundaries of autonomous agents.
+I love scratching new ideas, exploring trustless architectures.
 
 ---
 
