@@ -4,15 +4,15 @@ I love scratching new ideas, exploring trustless architectures.
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🔭 Currently building **DeFi + Cross-chain + AVS systems**
-- 🌱 Learning **Move, Rust, Smart Contract Security **
-- ⚙️ Working with **Soroban (Stellar), Ethereum**
-- 🧩 Exploring **EigenLayer, AVS, Autonomous Agents**
-- 👯 Open to collaborate on **Smart Contracts & Web3 Infra**
-- 🤔 Always curious about **independent AI & verifiable systems**
-- ⚡ Fun fact: not that funny for general public
+- Currently building **DeFi + Cross-chain + AVS systems**
+- Learning **Move, Rust, Smart Contract Security **
+- Working with **Soroban (Stellar), Ethereum**, Solana**
+- Exploring **AVS, Autonomous Agents**
+- Open to collaborate on **Smart Contracts, Web3 Infra and Agentic Trading systems**
+- Always curious about **independent AI & verifiable systems**
+- Fun fact: not that funny for general public
 
 ---
 
