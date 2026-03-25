@@ -55,15 +55,6 @@ I love scratching new ideas, exploring trustless architectures.
 
 ---
 
-## 🧩 Current Focus
-
-- 🔐 Smart Contract Security
-- 🌉 Cross-chain protocols (HTLC, bridges)
-- ⚡ Autonomous Verifiable Services (AVS)
-- 🧠 Decentralized Reputation Systems
-- 📦 Better person
----
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=daiwikmh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
@@ -74,10 +65,9 @@ I love scratching new ideas, exploring trustless architectures.
 
 ---
 
-## 🧠 Philosophy
+## Philosophy
 
 > Always in Conundrum
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=daiwikmh&icon=0&color=0)](https://visitcount.itsvg.in)
