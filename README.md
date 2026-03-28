@@ -8,7 +8,6 @@ I love scratching new ideas, exploring trustless architectures.
 
 - Currently building **DeFi + Cross-chain + AVS systems**
 - Wokring with Solidity, Move, Rust and Mern 
-- Working with **Soroban (Stellar), Ethereum**, Solana**
 - Exploring **AVS, Autonomous Agents**
 - Open to collaborate on **Smart Contracts, Web3 Infra and Agentic Trading systems**
 - Always curious about **independent AI & verifiable systems**
