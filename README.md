@@ -2,7 +2,7 @@
 
 I like scratching new ideas and exploring **trustless architectures**.
 
-I'm interested in the intersection of **DeFi, smart contracts, distributed systems, autonomous agents, and verifiable infrastructure**.
+I'm Working of **DeFi, smart contracts, distributed systems, autonomous agents, and Payment**.
 
 Currently building with **Solidity, Rust, Move, TypeScript and Go**.
 
@@ -10,8 +10,7 @@ Currently building with **Solidity, Rust, Move, TypeScript and Go**.
 
 ## About Me
 
-* Building **DeFi, cross-chain and AVS systems**
-* Working on **smart contracts and Web3 infrastructure**
+* Working on **Payments and DeFi infrastructure**
 * Exploring **autonomous agents and agentic trading**
 * Interested in **verifiable AI and independent systems**
 * Open to collaborating on **protocols, smart contracts, infrastructure and agents**
